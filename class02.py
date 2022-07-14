@@ -21,7 +21,7 @@ for i in range(n):
 print(bill)
 print("Your GrandTotal of Bill is: "+str(grandtotal)+" rs")
 
-
+# this is just a comment to check the git status
 
 
 
